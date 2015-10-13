@@ -1,0 +1,41 @@
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csprojResolveAssemblyReference.cache
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csproj.GenerateResource.Cache
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Form1.resources
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Properties.Resources.resources
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csprojResolveAssemblyReference.cache
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Form1.resources
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Properties.Resources.resources
+C:\Users\zumrut\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\Fidan satıs programı\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\obj\x86\Debug\Fidan_Satis.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\FİDAN SATIŞ TAKİP\22 temmuz 2015 Pizza\bin\Debug\MetroFramework.Design.dll

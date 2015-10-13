@@ -1,0 +1,64 @@
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\bin\Debug\MetroFramework.dll
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\bin\Debug\MetroFramework.Fonts.dll
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Form1.resources
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Properties.Resources.resources
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csproj.GenerateResource.Cache
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+c:\users\obm-yazılım\documents\visual studio 2010\Projects\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.KullanıcıGiris.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\MetroFramework.Design.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\mscorlib.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\normidna.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\normnfc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\normnfd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\normnfkc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\PersonelTakip\PersonelTakip\bin\Debug\normnfkd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.KullanıcıGiris.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\personel\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.KullanıcıGiris.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\personel\PersonelTakip\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.KullanıcıGiris.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\PERSONEL MESAİ TAKİP\PersonelTakip\obj\x86\Debug\PersonelTakip.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Personel Mesai Takip OGM\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Personel Mesai Takip OGM\PersonelTakip\obj\x86\Debug\PersonelTakip.exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Personel Mesai Takip OGM\PersonelTakip\obj\x86\Debug\PersonelTakip.pdb

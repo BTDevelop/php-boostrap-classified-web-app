@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\_22_temmuz_2015_Pizza.Form1.resources
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\_22_temmuz_2015_Pizza.Properties.Resources.resources
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\MetroFramework.dll
+C:\Users\pc\Desktop\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\pc\Desktop\MASAÜSTÜ\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\pc\Desktop\MASAÜSTÜ\CsharpApp\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.exe
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\bin\Debug\22 temmuz 2015 Pizza.pdb
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.csprojResolveAssemblyReference.cache
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\_22_temmuz_2015_Pizza.Form1.resources
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\_22_temmuz_2015_Pizza.Properties.Resources.resources
+C:\Users\zumrut\Desktop\22 temmuz 2015 Pizza\22 temmuz 2015 Pizza\obj\x86\Debug\22 temmuz 2015 Pizza.csproj.GenerateResource.Cache

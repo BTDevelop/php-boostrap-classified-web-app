@@ -1,0 +1,49 @@
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+c:\users\emre\documents\visual studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+D:\.Net Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+D:\.Net Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csproj.GenerateResource.Cache
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csproj.GenerateResource.Cache
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+G:\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Okul_Projeler\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csproj.GenerateResource.Cache
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+G:\Stajyer\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).exe
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\081599TuranEmreKÖKSALHW2(HANGMAN)\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\081599TuranEmreKÖKSALHW2(HANGMAN).csproj.GenerateResource.Cache

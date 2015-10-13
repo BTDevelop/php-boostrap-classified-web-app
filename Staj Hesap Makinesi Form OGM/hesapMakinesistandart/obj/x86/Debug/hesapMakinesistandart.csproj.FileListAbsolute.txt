@@ -1,0 +1,45 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Properties.Resources.resources
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csproj.GenerateResource.Cache
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form1.resources
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form2.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form2.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesistandart\hesapMakinesistandart\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\bin\Debug\hesapMakinesistandart.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Form1.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\HESAP MAKİNESİ\hesapMakinesistandart\obj\x86\Debug\hesapMakinesistandart.csproj.GenerateResource.Cache

@@ -1,0 +1,89 @@
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Tamer\documents\visual studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\İrfan\Desktop\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\İrfan\Desktop\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\CSharp(Assignment2)\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csproj.GenerateResource.Cache
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Muhammed\Documents\Visual Studio 2010\Projects\Assignment 2-Agenda application\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\EMRE\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\.Net Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TuranEmre\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tra\Documents\Visual Studio 2010\Projects\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+J:\EMRE\Yazılım_Projeler_Çalışmalar\C# ASP.NET\Projeler\Windows Form\Yeni klasör\Okul_Projeler\Assignment 2\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\MetroFramework.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Admin.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.frmAgenda.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp_Assignment2_.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\MetroFramework.Design.dll

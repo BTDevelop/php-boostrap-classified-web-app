@@ -1,0 +1,13 @@
+F:\Yazılım Dersleri\C#\BilgeAdamDosyalar\BilgeAdam&Ek$i\11-.Net Framework\2\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.exe
+F:\Yazılım Dersleri\C#\BilgeAdamDosyalar\BilgeAdam&Ek$i\11-.Net Framework\2\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.pdb
+F:\Yazılım Dersleri\C#\BilgeAdamDosyalar\BilgeAdam&Ek$i\11-.Net Framework\2\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.exe
+F:\Yazılım Dersleri\C#\BilgeAdamDosyalar\BilgeAdam&Ek$i\11-.Net Framework\2\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Burak\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Burak\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Burak\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Burak\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\interface_Mailgönderme\interface_Mailgönderme\bin\Debug\interface_Mailgönderme.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\interface_Mailgönderme\interface_Mailgönderme\obj\Debug\interface_Mailgönderme.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+bin\Debug\interface_Mailgönderme.exe
+bin\Debug\interface_Mailgönderme.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\interface_Mailgönderme.exe
+obj\Debug\interface_Mailgönderme.pdb

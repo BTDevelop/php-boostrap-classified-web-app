@@ -26,3 +26,13 @@ C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hangman\081599TuranEmreKÖKSALHW2(H
 C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hangman\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
 C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hangman\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.Properties.Resources.resources
 C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\hangman\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\hangman.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\_081599TuranEmreKÖKSALHW2_HANGMAN_.HangForm.resources
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\hangman.csproj.GenerateResource.Cache
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\HANGMAN.exe.config
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\HANGMAN.exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\HANGMAN.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\bin\Debug\MetroFramework.Design.dll
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\HANGMAN.Properties.Resources.resources
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\HANGMAN.exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Hangman OGM\081599TuranEmreKÖKSALHW2(HANGMAN)\obj\x86\Debug\HANGMAN.pdb

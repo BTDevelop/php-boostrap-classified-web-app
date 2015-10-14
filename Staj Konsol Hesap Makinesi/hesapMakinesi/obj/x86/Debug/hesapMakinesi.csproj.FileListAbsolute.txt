@@ -1,0 +1,16 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.pdb
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\FORM APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\hesapMakinesi\hesapMakinesi\obj\x86\Debug\hesapMakinesi.pdb

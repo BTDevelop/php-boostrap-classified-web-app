@@ -1,0 +1,4 @@
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\dosyaDizinVeSifreleme\dosyaDizinVeSifreleme\obj\x86\Debug\dosyaDizinVeSifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\dosyaDizinVeSifreleme\dosyaDizinVeSifreleme\bin\Debug\dosyaDizinVeSifreleme.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\dosyaDizinVeSifreleme\dosyaDizinVeSifreleme\bin\Debug\dosyaDizinVeSifreleme.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\dosyaDizinVeSifreleme\dosyaDizinVeSifreleme\obj\x86\Debug\dosyaDizinVeSifreleme.csprojResolveAssemblyReference.cache

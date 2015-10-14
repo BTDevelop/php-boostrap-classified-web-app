@@ -1,0 +1,11 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\atmUygulamasi\atmUygulamasi\bin\Debug\atmUygulamasi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\atmUygulamasi\atmUygulamasi\bin\Debug\atmUygulamasi.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.pdb
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\bin\Debug\atmUygulamasi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\bin\Debug\atmUygulamasi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\obj\x86\Debug\atmUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\atmUygulamasi\atmUygulamasi\bin\Debug\atmUygulamasi.exe.config

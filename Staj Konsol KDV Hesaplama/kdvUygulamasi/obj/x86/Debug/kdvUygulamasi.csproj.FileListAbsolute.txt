@@ -1,0 +1,11 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kdvUygulamasi\kdvUygulamasi\bin\Debug\kdvUygulamasi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kdvUygulamasi\kdvUygulamasi\bin\Debug\kdvUygulamasi.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.pdb
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\bin\Debug\kdvUygulamasi.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\bin\Debug\kdvUygulamasi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\bin\Debug\kdvUygulamasi.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kdvUygulamasi\kdvUygulamasi\obj\x86\Debug\kdvUygulamasi.pdb

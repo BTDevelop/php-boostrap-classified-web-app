@@ -1,0 +1,11 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kurHesaplama\kurHesaplama\bin\Debug\kurHesaplama.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kurHesaplama\kurHesaplama\bin\Debug\kurHesaplama.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.pdb
+C:\Users\Burak Tahtacıoğlu\documents\visual studio 2010\Projects\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\bin\Debug\kurHesaplama.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\bin\Debug\kurHesaplama.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\bin\Debug\kurHesaplama.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\kurHesaplama\kurHesaplama\obj\x86\Debug\kurHesaplama.pdb

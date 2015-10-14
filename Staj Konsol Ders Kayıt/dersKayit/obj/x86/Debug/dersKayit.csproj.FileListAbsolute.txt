@@ -1,0 +1,15 @@
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\dersKayit\dersKayit\bin\Debug\dersKayit.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\dersKayit\dersKayit\bin\Debug\dersKayit.pdb
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\dersKayit\dersKayit\obj\x86\Debug\dersKayit.exe
+c:\users\burak tahtacıoğlu\documents\visual studio 2010\Projects\dersKayit\dersKayit\obj\x86\Debug\dersKayit.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\visual studio 2010\Projects\dersKayit\dersKayit\obj\x86\Debug\dersKayit.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\dersKayit\dersKayit\bin\Debug\dersKayit.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\dersKayit\dersKayit\bin\Debug\dersKayit.exe.config
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\dersKayit\dersKayit\obj\x86\Debug\dersKayit.exe
+C:\Users\Burak Tahtacıoğlu\Desktop\Stajım\CONSOLE APP\dersKayit\dersKayit\obj\x86\Debug\dersKayit.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\bin\Debug\dersKayit.exe.config
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\obj\x86\Debug\dersKayit.exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\obj\x86\Debug\dersKayit.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\bin\Debug\dersKayit.exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\bin\Debug\dersKayit.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ders Kayıt\dersKayit\obj\x86\Debug\dersKayit.csprojResolveAssemblyReference.cache

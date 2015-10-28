@@ -1,0 +1,24 @@
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\DAL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\DAL\obj\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\obj\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\DAL.dll.config
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\mscorlib.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\normidna.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\normnfc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\normnfd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\normnfkc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\bin\Debug\normnfkd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\obj\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\DAL\obj\Debug\DAL.pdb

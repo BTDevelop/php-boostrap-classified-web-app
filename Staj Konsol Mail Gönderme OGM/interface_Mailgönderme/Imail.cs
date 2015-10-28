@@ -86,14 +86,14 @@ namespace interface_Mailgönderme
                 using (MailMessage mail = new MailMessage())
                 {
                     SmtpClient sc = new SmtpClient();
-                    mail.From = new MailAddress(from, "Test");
+                    mail.From = new MailAddress("buraktahtacioglu.com@gmail.com");
                     mail.To.Add(new MailAddress(to));
                     mail.IsBodyHtml = true;
                     mail.Subject = "Test Message";
                     mail.Body = "Burak Test";
                     mail.BodyEncoding = System.Text.Encoding.UTF8;
                     mail.SubjectEncoding = System.Text.Encoding.UTF8;
-                    NetworkCredential izinler = new NetworkCredential(username, password);
+                    NetworkCredential izinler = new NetworkCredential("buraktahtacioglu.com@gmail.com", "Bt3645948+");
                     sc.Host = smtpServer;
                     sc.Port = smtpPort;
                     sc.Credentials = izinler;

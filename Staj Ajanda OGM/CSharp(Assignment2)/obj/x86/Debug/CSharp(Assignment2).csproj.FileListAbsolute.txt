@@ -87,3 +87,6 @@ C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debu
 C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).csproj.GenerateResource.Cache
 C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe.config
 C:\Users\Burak Tahtacıoğlu\Desktop\AGENDA APP\CSharp(Assignment2)\bin\Debug\MetroFramework.Design.dll
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ajanda OGM\CSharp(Assignment2)\bin\Debug\CSharp(Assignment2).exe.config
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ajanda OGM\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).exe
+C:\Users\Burak Tahtacıoğlu\Documents\GitHub\Staj-Ajanda-OGM\Staj Ajanda OGM\CSharp(Assignment2)\obj\x86\Debug\CSharp(Assignment2).pdb

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="KisiselBlog" Class="BlogDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=KisiselBlog;Integrated Security=True" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="KisiselBlogConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Etiket" Member="Etikets">
+    <Type Name="Etiket">
+      <Column Name="EtiketId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Etiket_EtiketMakale" Member="EtiketMakales" ThisKey="EtiketId" OtherKey="EtiketId" Type="EtiketMakale" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EtiketMakale" Member="EtiketMakales">
+    <Type Name="EtiketMakale">
+      <Column Name="EtiketMakaleID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EtiketId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MakaleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Etiket_EtiketMakale" Member="Etiket" ThisKey="EtiketId" OtherKey="EtiketId" Type="Etiket" IsForeignKey="true" />
+      <Association Name="Makale_EtiketMakale" Member="Makale" ThisKey="MakaleId" OtherKey="MakaleId" Type="Makale" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Iletisim" Member="Iletisims">
+    <Type Name="Iletisim">
+      <Column Name="IletisimId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Eposta" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Ad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soyad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tarih" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Icerik" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kategori" Member="Kategoris">
+    <Type Name="Kategori">
+      <Column Name="KategoriId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KategoriAd" Type="System.String" DbType="NVarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="Deleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Kategori_Makale" Member="Makales" ThisKey="KategoriId" OtherKey="KategoriId" Type="Makale" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kullanici" Member="Kullanicis">
+    <Type Name="Kullanici">
+      <Column Name="KullaniciId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soyad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EPosta" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Sifre" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Rol" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SonGirisTarihi" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="SonIP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SonTarayici" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Deleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="GUID" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Kullanici_Makale" Member="Makales" ThisKey="KullaniciId" OtherKey="KullaniciId" Type="Makale" />
+      <Association Name="Kullanici_Yorum" Member="Yorums" ThisKey="KullaniciId" OtherKey="KullaniciId" Type="Yorum" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Makale" Member="Makales">
+    <Type Name="Makale">
+      <Column Name="MakaleId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KullaniciId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KategoriId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Baslik" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="MakaleYazi" Type="System.String" DbType="NText NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="Tarih" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Gorsel" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="HaberMi" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Deleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Makale_EtiketMakale" Member="EtiketMakales" ThisKey="MakaleId" OtherKey="MakaleId" Type="EtiketMakale" />
+      <Association Name="Makale_Yorum" Member="Yorums" ThisKey="MakaleId" OtherKey="MakaleId" Type="Yorum" />
+      <Association Name="Kategori_Makale" Member="Kategori" ThisKey="KategoriId" OtherKey="KategoriId" Type="Kategori" IsForeignKey="true" />
+      <Association Name="Kullanici_Makale" Member="Kullanici" ThisKey="KullaniciId" OtherKey="KullaniciId" Type="Kullanici" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Log]" Member="Logs">
+    <Type Name="Log">
+      <Column Name="LogId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KullaniciID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IslemTarihi" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IslemTuru" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="IslemAciklama" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Tarayici" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Yorum" Member="Yorums">
+    <Type Name="Yorum">
+      <Column Name="YorumId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="YorumText" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="MakaleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KullaniciId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Tarih" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Begeni" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Deleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="Kullanici_Yorum" Member="Kullanici" ThisKey="KullaniciId" OtherKey="KullaniciId" Type="Kullanici" IsForeignKey="true" />
+      <Association Name="Makale_Yorum" Member="Makale" ThisKey="MakaleId" OtherKey="MakaleId" Type="Makale" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

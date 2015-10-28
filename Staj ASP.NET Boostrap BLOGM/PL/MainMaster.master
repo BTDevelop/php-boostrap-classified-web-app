@@ -1,0 +1,330 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMaster.master.cs" Inherits="MainMaster" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>OGM |
+        <%:Page.Title %>
+    </title>
+    <!-- Bootstrap Core CSS -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"
+        type="text/css" />
+    <!-- MetisMenu CSS -->
+    <link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet" type="text/css" />
+    <!-- Custom CSS -->
+    <link href="dist/css/sb-admin-2.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet"
+        type="text/css" />
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="js/Chart.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <body>
+        <div id="wrapper">
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <a class="navbar-brand" href="Default.aspx"><i class="fa fa-leaf fa-fw"></i>ORMAN GENEL MÜDÜRLÜĞÜ BL<b>OGM</b></a>
+
+                    </div>
+                    <!-- /.navbar-header -->
+
+                    <ul class="nav navbar-top-links navbar-right">
+                        <!-- /.dropdown -->
+                        <li class="dropdown" id="information" runat="server">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-bell fa-fw"></i><i class="fa fa-caret-down"></i>
+                            </a>
+                            <ul class="dropdown-menu dropdown-alerts">
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <i class="fa fa-database fa-fw"></i>
+                                            <asp:Label ID="Label2" runat="server"></asp:Label>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <i class="fa fa-database fa-fw"></i>
+                                            <asp:Label ID="Label3" runat="server"></asp:Label>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <i class="fa fa-database fa-fw"></i>
+                                            <asp:Label ID="Label4" runat="server"></asp:Label>
+                                        </div>
+                                    </a>
+                                </li>
+
+                            </ul>
+                            <!-- /.dropdown-alerts -->
+                        </li>
+                        <li class="dropdown" id="envelope" runat="server">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-envelope fa-fw"></i><i class="fa fa-caret-down"></i>
+                            </a>
+                            <ul class="dropdown-menu dropdown-messages">
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <strong>John Smith</strong>
+                                            <span class="pull-right text-muted">
+                                                <em>Yesterday</em>
+                                            </span>
+                                        </div>
+                                        <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                    </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="#">
+                                        <div>
+                                            <strong>John Smith</strong>
+                                            <span class="pull-right text-muted">
+                                                <em>Yesterday</em>
+                                            </span>
+                                        </div>
+                                        <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                    </a>
+                                </li>
+                            </ul>
+                            <!-- /.dropdown-messages -->
+                        </li>
+                        <!-- /.dropdown -->
+
+                        <!-- /.dropdown -->
+                        <li class="dropdow" id="register" runat="server">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-users fa-fw"></i><i class="fa fa-caret-down"></i>
+                            </a>
+                            <ul class="dropdown-menu dropdown-alerts">
+                                <li>
+                                    <a href="User_Login/User_Login.aspx">
+                                        <div>
+                                            <i class="fa fa-sign-in fa-fw"></i>Giriş Yap
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <a href="Register.aspx">
+                                        <div>
+                                            <i class="fa fa-inbox fa-fw"></i>Kayıt Ol
+                                   
+                                        </div>
+                                    </a>
+                                </li>
+
+
+                            </ul>
+                            <!-- /.dropdown-alerts -->
+                        </li>
+                        <!-- /.dropdown -->
+                        <li class="dropdown" id="login" runat="server">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-user fa-fw"></i><i class="fa fa-caret-down"></i>
+                            </a>
+                            <ul class="dropdown-menu dropdown-user">
+                                <li><a href="UserSetting.aspx"><i class="fa fa-user fa-fw"></i>
+                                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                             </a>
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    <asp:LinkButton ID="LinkButton1" runat="server" OnClick="Logout_Click"><i class="fa fa-sign-out fa-fw">Çıkış Yap</i></asp:LinkButton>
+                                
+                                </li>
+                            </ul>
+                            <!-- /.dropdown-user -->
+                        </li>
+                        <!-- /.dropdown -->
+                    </ul>
+                    <!-- /.navbar-top-links -->
+
+                    <div class="navbar-default sidebar" role="navigation">
+                        <div class="sidebar-nav navbar-collapse">
+                            <ul class="nav" id="side-menu">
+                                <li class="sidebar-search">
+                                    <div class="input-group custom-search-form">
+                                        <input type="text" class="form-control" placeholder="Ara..."  runat="server" id="txtAra" />
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-red" type="button" 
+                                             id="btnara" runat="server" onserverclick="Ara_Click">
+                                         <%--  <asp:Button ID="Button1" runat="server"  onclick="Ara_Click"></asp:Button>--%>
+                                                <i class="fa fa-search"></i>
+                                            </button>
+                                        </span>
+                                    </div>
+                                    <!-- /input-group -->
+                                </li>
+                                <li>
+                                    <a href="Default.aspx"><i class="fa fa-archive fa-fw"></i>&nbsp;Anasayfa</a>
+                                </li>
+                                <li>
+                                    <a href="About.aspx"><i class="fa fa-lightbulb-o fa-fw"></i>&nbsp;Hakkımızda</a>
+                                </li>
+                                <li>
+                                    <a href="Contact.aspx"><i class="fa fa-phone fa-fw"></i>&nbsp;İletişim</a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-tasks fa-fw"></i>&nbsp;Kategoriler<span class="fa arrow"></span></a>
+                                    <ul class="nav nav-second-level">
+
+                                        <asp:Repeater ID="Repeater1" runat="server">
+                                            <ItemTemplate>
+                                                <li>
+                                                    <asp:HyperLink ID="kategoriler" runat="server" NavigateUrl='<%#Eval("KategoriId","~/Default.aspx?KategoriId={0}") %>'><span class="fa fa-quote-left" aria-hidden="true"></span> <%#Eval("KategoriAd") %> </asp:HyperLink></li>
+                                            </ItemTemplate>
+                                        </asp:Repeater>
+
+                                    </ul>
+                                    <!-- /.nav-second-level -->
+                                </li>
+
+                            </ul>
+                        </div>
+                        <!-- /.sidebar-collapse -->
+                    </div>
+                    <!-- /.navbar-static-side -->
+                </nav>
+            <!-- Page Content -->
+            <div id="page-wrapper">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <br />
+                        <div class="panel panel-red">
+                            <div class="panel-heading">
+                                <div class="row">
+                                    <div class="col-xs-3">
+                                        <i class="fa fa-archive fa-5x"></i>
+                                    </div>
+                                    <div class="col-xs-9 text-right">
+                                        <div class="huge">
+                                            BL<b>OGM</b> Panel</div>
+                                        <div>
+                                            <asp:Label ID="Label5" runat="server"></asp:Label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="panel panel-red">
+                            <div class="panel-heading">
+                                <i class="fa fa-bell fa-fw"></i>Duyurular
+                            </div>
+                            <!-- /.panel-heading -->
+                            <div class="panel-body">
+                                <div class="list-group">
+                                    <asp:Repeater ID="Repeater2" runat="server">
+                                        <itemtemplate>
+                                            <a href="#" class="list-group-item">
+                                                <img src="images/nut.png" class="img-thumbnail" width="40" height="40" />
+                                                <%#Eval("Baslik") %>
+                                                <span class="pull-right text-muted small"><em runat="server" id="sure">
+                                                    <%#Eval("Tarih") %></em> </span></a>
+                                        </itemtemplate>
+                                    </asp:Repeater>
+                                </div>
+                                <!-- /.list-group -->
+                                <a href="News.aspx" class="btn btn-default btn-block">Tüm Haberleri Gör</a>
+                            </div>
+                        </div>
+                        <!-- /.panel -->
+                        <a class="twitter-timeline" href="https://twitter.com/Club_Burak25" data-widget-id="638027405341388801">
+                            @Club_Burak25 tarafından gönderilen tweetler</a>
+                        <script type="text/javascript">                            !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+                        <div class="panel panel-red">
+                            <div class="panel-heading">
+                                <i class="fa fa-bar-chart-o fa-fw"></i>Kullanıcı İstatistikleri
+                            </div>
+                            <div class="panel-body">
+                                <canvas id="doughNutChartLoc" height="300" width="300"></canvas>
+                                <script>
+
+                                    var DoughNutChartData = [
+                                            {
+                                                value: 50,
+                                                color: "lightblue",
+                                                highlight: "#5AD3D1",
+                                                label: "Green"
+                                            },
+                                            {
+                                                value: 10,
+                                                color: "red",
+                                                highlight: "#FF5A5E",
+                                                label: "Red"
+
+                                            },
+                                            {
+                                                value: 40,
+                                                color: "green",
+                                                highlight: "#FFC870",
+                                                label: "Yellow"
+
+                                            }
+                                        ]
+                                    var myDoughnut = new Chart(document.getElementById("doughNutChartLoc").getContext("2d")).Doughnut(DoughNutChartData);
+
+                                </script>
+                            </div>
+                            <!-- /.panel-body -->
+                        </div>
+                        <!-- /.panel -->
+                    </div>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <div class="text-center">
+            <a class="btn btn-social-icon btn-facebook"><i class="fa fa-facebook"></i></a><a
+                class="btn btn-social-icon btn-github"><i class="fa fa-github"></i></a><a class="btn btn-social-icon btn-google-plus">
+                    <i class="fa fa-google-plus"></i></a><a class="btn btn-social-icon btn-linkedin"><i
+                        class="fa fa-linkedin"></i></a><a class="btn btn-social-icon btn-twitter"><i class="fa fa-twitter">
+                        </i></a>
+        </div>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="bower_components/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+        <!-- Metis Menu Plugin JavaScript -->
+        <script src="bower_components/metisMenu/dist/metisMenu.min.js" type="text/javascript"></script>
+        <!-- Custom Theme JavaScript -->
+        <script src="dist/js/sb-admin-2.js" type="text/javascript"></script>
+    </body>
+    </form>
+</body>
+</html>

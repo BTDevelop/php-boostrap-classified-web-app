@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.75" name="Blog">
+  <DataContextMoniker Name="/BlogDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0931d6b1-15c8-493c-a9a0-8458c104fac9" absoluteBounds="3.5, 1.25, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BlogDataContext/Etiket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1df6f5a-a767-4611-852a-e041e7bd458c" absoluteBounds="3.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="387a9062-82d9-4b23-9429-c006e0896e62" absoluteBounds="6.25, 4.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/BlogDataContext/EtiketMakale" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b6ba53d2-8185-4a1d-a7b5-f6267cba0a9a" absoluteBounds="6.265, 4.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5f120357-59ff-47fc-b8c0-0ae3c724c7d2" absoluteBounds="0.75, 7.375, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/BlogDataContext/Iletisim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0eeeceac-5c8e-4a9d-9cbd-0fd36f758442" absoluteBounds="0.765, 7.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cadd6c98-08c6-48f8-a0a7-fd0b2ca19303" absoluteBounds="0.75, 1.125, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/BlogDataContext/Kategori" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7926b658-0fb2-4d7a-9e58-6ce7ee03eef0" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b8daae04-c106-47c1-b1c6-8233b6d8426c" absoluteBounds="0.75, 3.375, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/BlogDataContext/Kullanici" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18e32939-7a43-4c6b-8134-f43f7a944b17" absoluteBounds="0.765, 3.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f8b64ece-df31-48d5-ae85-760e30c7f277" absoluteBounds="3.5, 3.5, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/BlogDataContext/Makale" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8dc13111-5328-4e57-b03f-d0eac9ba0183" absoluteBounds="3.515, 3.96, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="931208a6-d736-47d3-89b3-657cbf165082" absoluteBounds="3.75, 7.375, 2, 2.1554996744791675">
+      <DataClassMoniker Name="/BlogDataContext/Log" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af51f77b-9ba3-489c-9db7-5447ce97ebd9" absoluteBounds="3.765, 7.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4214cbea-8619-44f9-84f1-2ad8d2548bc0" absoluteBounds="6.25, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BlogDataContext/Yorum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19177155-5f13-450e-8fe5-9832608d3da6" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 2.44307305724159); (5.875 : 2.81807305724159); (5.875 : 4.81814697265625); (6.25 : 4.81814697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BlogDataContext/Etiket/Etiket_EtiketMakale" />
+      <nodes>
+        <classShapeMoniker Id="0931d6b1-15c8-493c-a9a0-8458c104fac9" />
+        <classShapeMoniker Id="387a9062-82d9-4b23-9429-c006e0896e62" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.40907348632813); (5.79166666666667 : 4.40907348632812 : JumpStart); (5.95833333333333 : 4.40907348632813 : JumpEnd); (6.25 : 4.40907348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BlogDataContext/Makale/Makale_EtiketMakale" />
+      <nodes>
+        <classShapeMoniker Id="f8b64ece-df31-48d5-ae85-760e30c7f277" />
+        <classShapeMoniker Id="387a9062-82d9-4b23-9429-c006e0896e62" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.5112939453125); (3.125 : 2.8862939453125); (3.125 : 4.77005126953125); (3.5 : 4.77005126953125)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BlogDataContext/Kategori/Kategori_Makale" />
+      <nodes>
+        <classShapeMoniker Id="cadd6c98-08c6-48f8-a0a7-fd0b2ca19303" />
+        <classShapeMoniker Id="f8b64ece-df31-48d5-ae85-760e30c7f277" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.07252563476563); (3.04166666666667 : 4.07252563476562 : JumpStart); (3.20833333333333 : 4.07252563476563 : JumpEnd); (3.5 : 4.07252563476563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BlogDataContext/Kullanici/Kullanici_Makale" />
+      <nodes>
+        <classShapeMoniker Id="b8daae04-c106-47c1-b1c6-8233b6d8426c" />
+        <classShapeMoniker Id="f8b64ece-df31-48d5-ae85-760e30c7f277" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.375); (1.75 : 2.7612939453125); (2.91666666666667 : 2.7612939453125 : JumpStart); (3.08333333333333 : 2.7612939453125 : JumpEnd); (6 : 2.7612939453125); (6 : 1.82774983723958); (6.25 : 1.82774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BlogDataContext/Kullanici/Kullanici_Yorum" />
+      <nodes>
+        <classShapeMoniker Id="b8daae04-c106-47c1-b1c6-8233b6d8426c" />
+        <classShapeMoniker Id="4214cbea-8619-44f9-84f1-2ad8d2548bc0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.56153746153846); (5.81607443490112 : 3.24546302663734 : JumpStart); (5.93392556509888 : 3.12761189643958 : JumpEnd); (6.0625 : 2.99903746153846); (6.0625 : 3.09299967447917); (6.25 : 2.90549967447917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BlogDataContext/Makale/Makale_Yorum" />
+      <nodes>
+        <classShapeMoniker Id="f8b64ece-df31-48d5-ae85-760e30c7f277" />
+        <classShapeMoniker Id="4214cbea-8619-44f9-84f1-2ad8d2548bc0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

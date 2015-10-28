@@ -1,0 +1,28 @@
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\bin\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\bin\Debug\BLL.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\obj\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Documents\Visual Studio 2010\Projects\ASPNETBlogProject\BLL\obj\Debug\BLL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\bin\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\bin\Debug\BLL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\obj\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject\BLL\obj\Debug\BLL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\BLL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\DAL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\mscorlib.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\DAL.pdb
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\normidna.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\normnfc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\normnfd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\normnfkc.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\bin\Debug\normnfkd.nlp
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\obj\Debug\BLL.dll
+C:\Users\Burak Tahtacıoğlu\Desktop\ASPNETBlogProject yedek\BLL\obj\Debug\BLL.pdb
